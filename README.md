@@ -3,11 +3,6 @@ The goal of this competition is to predict a system’s probability of getting i
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue)]([https://www.kaggle.com/competitions/your-competition-name](https://www.kaggle.com/competitions/System-Threat-Forecaster/overview))
 
-
-System Threat Forecaster
-
-Can You Forewarn a System Before It’s Compromised?
-
 # Description
 
 The goal of this competition is to predict a system’s probability of getting infected by various families of malware based on its configuration and usage properties.
